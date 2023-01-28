@@ -1,7 +1,7 @@
-"tipologia","id","anno_pubblicazione","isbn","numero_pagine","titolo","autore","genere","periodicita"
-"Rivista",1,2022,14393,200,"Vogue",NULL,NULL,"MENSILE"
-"Rivista",2,2022,14394,150,"National Geographic",NULL,NULL,"MENSILE"
-"Rivista",3,2021,14395,100,"Cosmopolitan",NULL,NULL,"SEMESTRALE"
-"Libro",4,2022,41252,500,"Il Signore degli Anelli","J.R.R. Tolkien","Fantasy",NULL
-"Libro",5,2022,41253,400,"Harry Potter e la Pietra Filosofale","J.K. Rowling","Fantasy",NULL
-"Libro",6,2022,41254,600,"La Divina Commedia","Dante Alighieri","Narrativa",NULL
+"tipologia","id","isbn","annopub","numpag","titolo","autore","genere","periodicita"
+"Libro",1,46536,2022,500,"Il Signore degli Anelli","J.R.R. Tolkien","Fantasy",NULL
+"Libro",2,81253,2022,400,"Harry Potter e la Pietra Filosofale","J.K. Rowling","Fantasy",NULL
+"Libro",3,41254,2022,600,"La Divina Commedia","Dante Alighieri","Narrativa",NULL
+"Rivista",4,14393,2022,200,"Vogue",NULL,NULL,"MENSILE"
+"Rivista",5,14394,2022,150,"National Geographic",NULL,NULL,"MENSILE"
+"Rivista",6,14395,2021,100,"Cosmopolitan",NULL,NULL,"SEMESTRALE"
